@@ -31,8 +31,9 @@ composer.lock
 /.project
 app/CoreFacturalo/Templates/pdf/personalizada*
 public/templates/pdf/personalizada*
-<<<<<<< HEAD
+
 public/porto-light/js/bloquear_cliente.js
-=======
+
 supervisor.conf
->>>>>>> 2e52ec8c1d86017fd7f136eb8b09ef3d71626eb4
+
+/node_modules_BK

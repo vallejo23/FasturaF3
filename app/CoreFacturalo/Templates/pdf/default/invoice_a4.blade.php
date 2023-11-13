@@ -804,7 +804,8 @@
 <table class="full-width">
     <tr>
         <td>
-            <strong>CONDICIÓN DE PAGO: {{ $paymentCondition }} </strong>
+            <strong>            <h1>Hola Senatinos</h1>
+                CONDICIÓN DE PAGO: {{ $paymentCondition }} </strong>
         </td>
     </tr>
 </table>
